@@ -13,22 +13,22 @@ The designs were created to the following widths:
 
 ### Neutral
 
-- **Neutral 900**: hsl(243, 96%, 9%)
-- **Neutral 800**: hsl(243, 27%, 20%)
-- **Neutral 700**: hsl(243, 23%, 24%)
-- **Neutral 600**: hsl(243, 23%, 30%)
-- **Neutral 300**: hsl(240, 6%, 70%)
-- **Neutral 200**: hsl(250, 6%, 84%)
-- **Neutral 0**: hsl(0, 0%, 100%)
+- **Neutral 900**: #03012d
+- **Neutral 800**: #272541
+- **Neutral 700**: #312f4b
+- **Neutral 600**: #3d3b5e
+- **Neutral 300**: #aeaeb7
+- **Neutral 200**: #d5d4d9
+- **Neutral 0**: #ffffff
 
 ### Orange
 
-- **Orange 500**: hsl(28, 100%, 52%)
+- **Orange 500**: #ff7c0a
 
 ### Blue
 
-- **Blue 500**: hsl(233, 67%, 56%)
-- **Blue 700**: hsl(248, 70%, 36%)
+- **Blue 500**: #4455da
+- **Blue 700**: #2d1c9c
 
 ## Typography
 
